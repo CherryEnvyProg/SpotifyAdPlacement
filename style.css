@@ -1,17 +1,17 @@
 html{
-	background-color: #01823E;
+	background-color: #e5ccff;
 }
 
 body{
 	width: 960px;
 	margin: auto;
-	background-color: #01823E;
+	background-color: #ffe6ff;
 	color: #003300;
 	text-align; center;
 }
 
 .header {
-	background-color: #01823E;
+	background-color: #ffe6ff;
 	margin-bottom: 1px;
 	margin: auto;
 }
@@ -24,15 +24,6 @@ body{
 	text-transform: uppercase;
 	letter-spacing: 2px;
 	margin: 0;
-}
-
-.titlekinda	{
-	font: normal 32px Arial, Helvetica, san-serif;
-	color:#004d00;
-	text-align:center;
-	line-height: 28px;
-	letter-spacing: 2px;
-	margin: auto;
 }
 
 .navigation	{
